@@ -1,2 +1,2 @@
-# PYTHON-BASIC
-Assignment - 01
+# Data Types and Structures
+Assignment - 02
